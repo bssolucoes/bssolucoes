@@ -15,19 +15,20 @@ Specialized in **shows, social, corporate, and cultural events**
 Tools I use in audiovisual productions:  
 
 ![Resolume Arena](https://img.shields.io/badge/Resolume_Arena-006400?style=for-the-badge&logoColor=white)
-![Millumin](https://img.shields.io/badge/Millumin-0000FF?style=for-the-badge&logoColor=white)
+![Millumin](https://img.shields.io/badge/Millumin-0096A6?style=for-the-badge&logoColor=white)
 ![Barco E2](https://img.shields.io/badge/Barco_E2-FF2821?style=for-the-badge&logo=barco&logoColor=white)  
-![NovaStar Series H](https://img.shields.io/badge/NovaStar_Series_H-A9A9A9?style=for-the-badge&logoColor=white)
+![NovaStar Series H](https://img.shields.io/badge/NovaStar_Series_H-555555?style=for-the-badge&logoColor=white)
 ![PixelHue](https://img.shields.io/badge/PixelHue-005F73?style=for-the-badge&logoColor=white)
 ![Analog Way](https://img.shields.io/badge/Analog_Way-0078D7?style=for-the-badge&logoColor=white)  
 ![Stream Deck](https://img.shields.io/badge/Stream_Deck-0E0E0E?style=for-the-badge&logo=elgato&logoColor=white)
 ![Bitfocus Companion](https://img.shields.io/badge/Bitfocus_Companion-1F1F1F?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
 ## 📌 Skills  
 - LED Panels: Absen, Nova Star, Lins  
 - Video processing & mapping  
-- Event operation: shows, festivals, corporate & cultural  ]
+- Event operation: shows, festivals, corporate & cultural  
 - Software: Resolume Arena, Millumin, Barco E2, PixelHue, NovaStar Series H  
 
 ---
@@ -44,4 +45,8 @@ Tools I use in audiovisual productions:
 
 ---
 
-✉️ Get in touch: **contato@bielsouza.com**
+✉️ Get in touch: **contato@bielsouza.com**  
+
+---
+
+**BS Soluções Técnicas Audiovisuais** — Expertise in video, LED, and live operation.
