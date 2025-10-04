@@ -28,7 +28,7 @@ Specialized in **Social, Corporate, and Cultural Events**
 
 ## 🚀 Projects
 - 🎬 **[Technical Manual: LED Panels](#)**  
-- 🔧 **[Processor Routing Diagrams](#)**  
+- 🔧 **[Processor Routing Diagrams](https://github.com/bssolucoes/drawio-repo)**  
 - 📝 **[Audiovisual Blog](https://bielsouza.com)**  
 
 ---
