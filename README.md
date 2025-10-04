@@ -5,9 +5,9 @@ Especializado em **eventos sociais, corporativos e culturais**
 
 🔧 Foco em soluções audiovisuais: **painéis de LED, processamento de vídeo e operação ao vivo**  
 
-🌐 [Website](https://bielsouza.com)
-💼 [LinkedIn](https://linkedin.com/in/bielsouza)
-📷 [Instagram](https://instagram.com/bielsouza)
+🌐 [Website](https://bielsouza.com)  
+💼 [LinkedIn](https://linkedin.com/in/bielsouza)  
+📷 [Instagram](https://instagram.com/bielsouza)  
 
 ---
 
