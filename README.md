@@ -5,7 +5,7 @@ Specialized in **Social, Corporate, and Cultural Events**
 
 🔧 Focus on audiovisual solutions: **LED panels, video processing, and live event operation**  
 
-🌐 [Website](https://bielsouza.com) • 💼 [LinkedIn](https://linkedin.com/in/seu-perfil) • 📷 [Instagram](https://instagram.com/seu_perfil)
+🌐 [Website](https://bielsouza.com) • 💼 [LinkedIn](https://linkedin.com/in/bielsouza) • 📷 [Instagram](https://instagram.com/bielsouza)
 
 ---
 
