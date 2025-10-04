@@ -15,7 +15,7 @@ Ferramentas que utilizo em produções audiovisuais:
 ![Resolume Arena](https://img.shields.io/badge/Resolume_Arena-006400?style=for-the-badge&logoColor=white)
 ![Millumin](https://img.shields.io/badge/Millumin-0000FF?style=for-the-badge&logoColor=white)
 ![Barco E2](https://img.shields.io/badge/Barco_E2-FF2821?style=for-the-badge&logo=barco&logoColor=white)
-![NovaStar Series H](https://img.shields.io/badge/NovaStar_Series_H-0E0E0E?style=for-the-badge&logoColor=white)
+![NovaStar Series H](https://img.shields.io/badge/NovaStar_Series_H-A9A9A9?style=for-the-badge&logoColor=white)
 ![PixelHue](https://img.shields.io/badge/PixelHue-005F73?style=for-the-badge&logoColor=white)
 ![Analog Way](https://img.shields.io/badge/Analog_Way-0078D7?style=for-the-badge&logoColor=white)
 ![Stream Deck](https://img.shields.io/badge/Stream_Deck-0E0E0E?style=for-the-badge&logo=elgato&logoColor=white)
