@@ -5,7 +5,9 @@ Especializado em **eventos sociais, corporativos e culturais**
 
 🔧 Foco em soluções audiovisuais: **painéis de LED, processamento de vídeo e operação ao vivo**  
 
-🌐 [Website](https://bielsouza.com) • 💼 [LinkedIn](https://linkedin.com/in/bielsouza) • 📷 [Instagram](https://instagram.com/bielsouza)
+🌐 [Website](https://bielsouza.com)
+💼 [LinkedIn](https://linkedin.com/in/bielsouza)
+📷 [Instagram](https://instagram.com/bielsouza)
 
 ---
 
@@ -28,12 +30,12 @@ Ferramentas que utilizo em produções audiovisuais:
 - Painéis de LED: Absen, NovaStar, PixelHue, Barco E2  
 - Processamento & mapeamento de vídeo  
 - Operação de eventos: shows, festivais, corporativos & culturais  
-- Softwares: OBS Studio, Resolume Arena, GIMP, Inkscape, Canva  
+- Softwares: Resolume Arena, Millumin, Barco E2, PixelHue, NovaStar Series H  
 
 ---
 
 ## 🚀 Projects  
-- 🎬 **[Manual Técnico: Painéis de LED](https://github.com/bssolucoes/led-manual)**  
+- 🎬 **[Manual Técnico: Painéis de LED](https://bielsouza.com)**  
 - 🔧 **[Diagramas de Roteamento de Processadores](https://github.com/bssolucoes/drawio-repo)**  
 - 📝 **[Blog Audiovisual](https://bielsouza.com)**  
 
