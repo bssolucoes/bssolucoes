@@ -25,7 +25,7 @@ Ferramentas que utilizo em produções audiovisuais:
 ---
 
 ## 📌 Skills  
-- Painéis de LED: Absen, NovaStar, PixelHue, Barco E2  
+- Painéis de LED: Absen, Nova Star, Lins  
 - Processamento & mapeamento de vídeo  
 - Operação de eventos: shows, festivais, corporativos & culturais  
 - Softwares: Resolume Arena, Millumin, Barco E2, PixelHue, NovaStar Series H  
