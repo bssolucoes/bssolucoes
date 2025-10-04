@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Biel Souza  
 
 🎥 **Video Technical Consultant & Operator**  
-Especializado em **eventos sociais, corporativos e culturais**  
+Specialized in **shows, social, corporate, and cultural events**  
 
-🔧 Foco em soluções audiovisuais: **painéis de LED, processamento de vídeo e operação ao vivo**  
+🔧 Focused on audiovisual solutions: **LED panels, video processing, and live operation**  
 
 🌐 [Website](https://bielsouza.com)  
 💼 [LinkedIn](https://linkedin.com/in/bielsouza)  
@@ -12,7 +12,7 @@ Especializado em **eventos sociais, corporativos e culturais**
 ---
 
 ## 🛠️ Tech & Tools  
-Ferramentas que utilizo em produções audiovisuais:  
+Tools I use in audiovisual productions:  
 
 ![Resolume Arena](https://img.shields.io/badge/Resolume_Arena-006400?style=for-the-badge&logoColor=white)
 ![Millumin](https://img.shields.io/badge/Millumin-0000FF?style=for-the-badge&logoColor=white)
@@ -25,17 +25,17 @@ Ferramentas que utilizo em produções audiovisuais:
 ---
 
 ## 📌 Skills  
-- Painéis de LED: Absen, Nova Star, Lins  
-- Processamento & mapeamento de vídeo  
-- Operação de eventos: shows, festivais, corporativos & culturais  
-- Softwares: Resolume Arena, Millumin, Barco E2, PixelHue, NovaStar Series H  
+- LED Panels: Absen, Nova Star, Lins  
+- Video processing & mapping  
+- Event operation: shows, festivals, corporate & cultural  ]
+- Software: Resolume Arena, Millumin, Barco E2, PixelHue, NovaStar Series H  
 
 ---
 
 ## 🚀 Projects  
-- 🎬 **[Manual Técnico: Painéis de LED](https://bielsouza.com)**  
-- 🔧 **[Diagramas de Roteamento de Processadores](https://github.com/bssolucoes/drawio-repo)**  
-- 📝 **[Blog Audiovisual](https://bielsouza.com)**  
+- 🎬 **[Technical Manual: LED Panels](https://bielsouza.com)**  
+- 🔧 **[Processor Routing Diagrams](https://github.com/bssolucoes/drawio-repo)**  
+- 📝 **[Audiovisual Blog](https://bielsouza.com)**  
 
 ---
 
@@ -44,4 +44,4 @@ Ferramentas que utilizo em produções audiovisuais:
 
 ---
 
-✉️ Entre em contato: **contato@bielsouza.com**
+✉️ Get in touch: **contato@bielsouza.com**
