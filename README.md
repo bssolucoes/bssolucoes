@@ -19,7 +19,6 @@ Ferramentas que utilizo em produções audiovisuais:
 ![Analog Way](https://img.shields.io/badge/Analog_Way-0078D7?style=for-the-badge&logoColor=white)  
 ![Stream Deck](https://img.shields.io/badge/Stream_Deck-0E0E0E?style=for-the-badge&logo=elgato&logoColor=white)  
 ![Bitfocus Companion](https://img.shields.io/badge/Bitfocus_Companion-1F1F1F?style=for-the-badge&logo=github&logoColor=white)  
-![NDI](https://img.shields.io/badge/NDI-0078D4?style=for-the-badge&logoColor=white)  
 ![Kommander T3](https://img.shields.io/badge/Kommander_T3-333333?style=for-the-badge&logoColor=white)  
 
 ---
